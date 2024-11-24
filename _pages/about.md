@@ -49,7 +49,7 @@ Accepted Book Chapters
 ---
 
 
-1. **A. F. M. Minhazur Rahman** and Md. Ali Hossain. “Deep Learning Approach to Brain Tumor Segmentation from MRI Images.” *Accepted and presented at the International Conference on Big Data, IoT, and Machine Learning: BIM 2023. Currently under editing for publication in a Taylor & Francis book*.
+1. **A. F. M. Minhazur Rahman** and Md. Ali Hossain. “Ensemble-Based Transfer Learning Approach for Brain Tumor Segmentation from MRI Images.” *Accepted and presented at the International Conference on Big Data, IoT, and Machine Learning: BIM 2023. Currently under editing for publication in a Taylor & Francis book*.
 [Download Paper](/files/bim_2023_crs.pdf){:target="_blank"}
 
 Published Conference Papers
