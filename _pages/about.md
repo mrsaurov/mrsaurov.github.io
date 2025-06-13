@@ -20,9 +20,8 @@ Research Interests
 Education
 ======
 
-- M.Sc. in Computer Science & Engineering, RUET, Bangladesh (Ongoing)
+- M.Sc. in Computer Science & Engineering, RUET, Bangladesh (2025)
   - CGPA: 4.00/4.00
-  
 - B.Sc. in Computer Science & Engineering, RUET, Bangladesh (2021)
   - **Position: 1st**
   - CGPA: 3.89/4.00
@@ -83,5 +82,5 @@ Accepted Conference Papers
 Srizon. "A Multimodal Approach to Bengali Music Genre Classification Using 1D CNN and ResNet-50."
 *Accepted for presentation at the 27th International Conference on Computer and Information Technology (ICCIT)*, 2024.
 
-2. Noman Amin, Anwar Hossain Efat, **A. F. M. Minhazur Rahman** and S. M. Mahedy Hasan. "Enhanced Skin Lesion Detection Using Concatenated DenseNet and Multi-Attention Mechanisms." *Accepted for presentation at the 4th Internation Conference on Innovations in Science, Engineering and Technology (ICISET)*, 2024. **(Best Paper Award Winner)**
+2. Noman Amin, Anwar Hossain Efat, **A. F. M. Minhazur Rahman** and S. M. Mahedy Hasan. "Enhanced Skin Lesion Detection Using Concatenated DenseNet and Multi-Attention Mechanisms." *Accepted for presentation at the 4th International Conference on Innovations in Science, Engineering and Technology (ICISET)*, 2024. **(Best Paper Award Winner)**
 [Download Paper](/files/skin_paper.pdf){:target="_blank"}
