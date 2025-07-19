@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A. F. M. Minhazur Rahman is an Assistant Professor in the [Department of Computer Science & Engineering(CSE)](https://www.cse.ruet.ac.bd/){:target="_blank"} at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/){:target="_blank"}. A computer enthusiast from an early age, he earned his Bachelor of Science degree in CSE from RUET in 2021, graduating with first-class honors and ranking first in his batch of 120 students, with a CGPA of 3.89. He is currently pursuing his Master of Science degree in CSE at RUET, where his research focuses on deep learning-based image segmentation for medical image analysis. His broader research interests include computer vision, deep learning, and medical image analysis.
+A. F. M. Minhazur Rahman is an Assistant Professor in the [Department of Computer Science & Engineering(CSE)](https://www.cse.ruet.ac.bd/){:target="_blank"} at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/){:target="_blank"}. A computer enthusiast from an early age, he earned his Bachelor of Science degree in CSE from RUET in 2021, graduating with first-class honors and ranking first in his batch of 120 students, with a CGPA of 3.89. He has recently completed his Master of Science degree in CSE from RUET with a  CGPA of 4.00. His research focused on deep learning-based image segmentation for medical image analysis. His broader research interests include computer vision, deep learning, and medical image analysis. He is currently a PhD aspirant, seeking to further advance his work in these domains.
+
 <!-- A. F. M. Minhazur Rahman is currently serving as an Assistant Professor in the [Department of Computer Science & Engineering(CSE)](https://www.cse.ruet.ac.bd/) at Rajshahi University of Engineering & Technology (RUET). A passionate computer enthusiast from an early age, he earned his Bachelor of Science degree in CSE from RUET in 2021, graduating with first class honors. He ranked first in his batch of 120 students with a CGPA of 3.89. During his studies, he developed a deep interest in the applications of artificial intelligence and deep neural networks, particularly for computer vision tasks such as segmentation and classification.  He is currently pursuing his Master of Science degree in CSE at RUET, where he is working on deep learning-based image segmentation techniques for medical image analysis. His research interests include computer vision, deep learning, and medical image analysis. -->
 
 Research Interests
@@ -72,15 +73,16 @@ Published Conference Papers
 1. **A. F. M. Minhazur Rahman** and Md. Ali Hossain. “Attention-refined U-Net with Skip Connections for Effective Brain Tumor Segmentation from MRI images.” In *2023 26th International Conference on Computer and Information Technology (ICCIT)*, pages 1–6, 2023.
 [Download Paper](/files/attention_unet.pdf){:target="_blank"}
 
-2. Kowshik Deb Nath, **A. F. M. Minhazur Rahman**, and Md. Ali Hossain. “An Attention-based Deep Learning Approach to Knee Injury Classification from MRI Images.” In *2023 26th International Conference on Computer and Information Technology (ICCIT)*, pages 1–6, 2023.
+2. Sunayana Ghosh, **A. F. M. Minhazur Rahman**, Plabon Talukder, Md. Ali Hossain and Azmain Yakin
+Srizon. "A Multimodal Approach to Bengali Music Genre Classification Using 1D CNN and ResNet-50."
+In *2024 27th International Conference on Computer and Information Technology (ICCIT)*, pages 1–6, 2024.
+
+3. Noman Amin, Anwar Hossain Efat, **A. F. M. Minhazur Rahman** and S. M. Mahedy Hasan. "Enhanced Skin Lesion Detection Using Concatenated DenseNet and Multi-Attention Mechanisms." In *2024 27th International Conference on Computer and Information Technology (ICCIT)*, pages 1–6, 2024. **(Best Paper Award Winner)**
+[Download Paper](/files/skin_paper.pdf){:target="_blank"}
+
+4. Kowshik Deb Nath, **A. F. M. Minhazur Rahman**, and Md. Ali Hossain. “An Attention-based Deep Learning Approach to Knee Injury Classification from MRI Images.” In *2023 26th International Conference on Computer and Information Technology (ICCIT)*, pages 1–6, 2023.
 [Download Paper](/files/attention_knee.pdf){:target="_blank"}
 
-Accepted Conference Papers
----
+5. Md. Farhan Shakib, Md. Shahid Uz Zaman, Md. Al Mamun, Azmain Yakin Srizon, and **A. F. M. Minhazur Rahman**, "Enhancing Bushfire Classification in Satellite Imagery through Gradient Based Channel Selection", In *2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)*, 2025, pages 1–6.
 
-1. Sunayana Ghosh, **A. F. M. Minhazur Rahman**, Plabon Talukder, Md. Ali Hossain and Azmain Yakin
-Srizon. "A Multimodal Approach to Bengali Music Genre Classification Using 1D CNN and ResNet-50."
-*Accepted for presentation at the 27th International Conference on Computer and Information Technology (ICCIT)*, 2024.
-
-2. Noman Amin, Anwar Hossain Efat, **A. F. M. Minhazur Rahman** and S. M. Mahedy Hasan. "Enhanced Skin Lesion Detection Using Concatenated DenseNet and Multi-Attention Mechanisms." *Accepted for presentation at the 4th International Conference on Innovations in Science, Engineering and Technology (ICISET)*, 2024. **(Best Paper Award Winner)**
-[Download Paper](/files/skin_paper.pdf){:target="_blank"}
+6. Md Minhazul Islam, Tanbeer Jubaer, Azmain Yakin Srizon, Md. Rakib Hossain, S. M. Mahedy Hasan, Md. Farukuzzaman Faruk, and **A. F. M. Minhazur Rahman**. "Navigating Bengali Linguistics: Insights from Machine and Deep Learning Perspectives for Categorization of Sentences". In *2023 26th International Conference on Computer and Information Technology (ICCIT)*, pages 1–6, 2023.
